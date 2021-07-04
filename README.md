@@ -10,9 +10,7 @@
     <img src="https://img.shields.io/badge/-screencastify-lightgrey" />
     <img src="https://img.shields.io/badge/-json-orange" />
 </p>
-  
-  
-🎥 The full movie file showing functionality of the application can be found [here](./src/dewody-readme-generator-movie.webm)  
+
   
 ## Description
 🔍 A node based application that generates a readme file
