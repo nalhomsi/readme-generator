@@ -1,14 +1,13 @@
 
-<h1 align="center">README Generator</h1>
+<h1 align="center">readme-generator 👋</h1>
   
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 
 ## Description
-🔍 A node based application that generates a readme file
+ an automated readme generator for github users
 
 ## Table of Contents
 - [Description](#description)
-- [Table of Contents](#table-of-contents)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
@@ -17,11 +16,10 @@
 - [Questions](#questions)
 
 ## Installation
- npm install inquirer is needed
+ install inquirer and npm install
 
 ## Usage
-
-When you run node index.js at the root of your project, the application will prompt you in the command line with a series of questions about your user information and project.
+To automate readme files for github projects
 
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
@@ -32,13 +30,14 @@ This application is covered by the MIT license.
 Noor Alhomsi
 
 ## Tests
-Tests were run to ensure functionality
+Yes
 
 ## Questions
-Feel free to reach out with questions!<br />
+Contact me for user help<br />
 <br />
-:octocat: GitHub: [nalhomsi](https://github.com/nalhomsi)<br />
+:octocat: Find me on GitHub: [nalhomsi](https://github.com/nalhomsi)<br />
 <br />
- Email: nalhomsi@gmail.com<br /><br />
+✉️ Email me with any questions: nalhomsi@gmail.com<br /><br />
+
 
     
