@@ -3,8 +3,6 @@
 
   
 <p align="center">
-    <img src="https://img.shields.io/badge/Javascript-yellow" />
-    <img src="https://img.shields.io/badge/jQuery-blue"  />
     <img src="https://img.shields.io/badge/-node.js-green" />
     <img src="https://img.shields.io/badge/-inquirer-red" >
     <img src="https://img.shields.io/badge/-json-orange" />
@@ -12,7 +10,7 @@
 
   
 ## Description
-🔍 A node based application that generates a readme file
+ A node based application that generates a readme file
 
 ## Table of Contents
 - [Description](#description)
