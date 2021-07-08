@@ -11,6 +11,8 @@
   
 ## Description
  A node based application that generates a readme file
+ 
+ Link to video: https://ibb.co/TMxGCrH
 
 ## Table of Contents
 - [Description](#description)
